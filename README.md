@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sevdeetoz
-- 👀 I’m interested in CNN and machine learning algorithms for medical image processing (classification)
-- 🌱 I’m currently learning CNNs
-- 💞️ I’m looking to collaborate on texture analysis and classification
+- 👀 I’m interested in CNN and machine learning algorithms for medical image processing
+- 💞️ I’m looking to collaborate on segmentation and classification
 - 📫 How to reach me: sevdeetoz@gmail.com
 
 <!---
